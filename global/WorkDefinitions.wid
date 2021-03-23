@@ -94,7 +94,7 @@
     [
     "name" : "AsyncTest",
     "parameters" : [
-      "Message" : new StringDataType()
+      "CommandClass" : new StringDataType()
     ],
     "displayName" : "AsyncTest",
     "icon" : "defaultlogicon.gif"
