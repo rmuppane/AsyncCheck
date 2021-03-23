@@ -89,5 +89,14 @@
     "displayName" : "Milestone",
     "icon" : "defaultmilestoneicon.png",
     "category" : "Milestone"
-    ]
+    ],
+    
+    [
+    "name" : "AsyncTest",
+    "parameters" : [
+      "Message" : new StringDataType()
+    ],
+    "displayName" : "AsyncTest",
+    "icon" : "defaultlogicon.gif"
+  ]
 ]
