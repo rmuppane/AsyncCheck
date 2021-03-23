@@ -45,6 +45,11 @@
       <version>1.4.14.redhat-00001</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+      <groupId>com.agos</groupId>
+      <artifactId>workitems</artifactId>
+      <version>1.0.0</version>
+    </dependency>
   </dependencies>
   <build>
     <plugins>
